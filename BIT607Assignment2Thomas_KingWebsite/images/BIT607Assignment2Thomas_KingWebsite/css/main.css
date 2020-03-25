@@ -1,0 +1,423 @@
+*{
+    margin: 0; padding: 10;
+}
+
+@import url("https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap");
+
+element.style {
+}
+.ui-menu .ui-menu-item {
+    margin: 0;
+    cursor: pointer;
+    list-style-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7);
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.ui-widget-content {
+    border: 1px solid #dddddd;
+    background: #ffffff;
+    color: #333333;
+}
+.ui-widget {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 1em;
+}
+.ui-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: block;
+    outline: 0;
+}
+
+
+ul {
+    list-style-type: disc;
+}
+#navbar {
+    width: 190px;
+    float: left;
+    margin: 0px 15px 15px 10px;
+    font-size: 120%;
+background-color: red;
+    display: block;
+}
+
+header  {color: white;
+    background: red;
+    height: 15vh;
+	font-family: 'Indie Flower', cursive;
+font-size: 850%;
+text-align: center;
+position: relative;
+	
+  }
+
+body {color: white;
+background-color: black;
+font-family: 'Sulphur Point', sans-serif;
+}
+
+h1 {color: white;
+font-family: 'ZCOOL XiaoWei', serif;
+text-align: center;
+font-size:250%;}
+
+p {font-size: 120%;
+}
+
+.centre {
+    text-align: center;
+}
+
+ul {
+    display: inline;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.container{max-width: 720px;
+    margin: 0 auto;
+}
+
+
+
+.col-12 {float: right;
+width: 100%;
+padding: 0;
+text-align: block;
+font-size: 115%;
+}
+
+
+#photo {size: 10px;}
+
+
+footer {
+    clear: both;
+    position: absolute;
+    height: 200px;
+    margin-top: -200px;
+}
+  
+  
+.button:hover {background-color: red;
+color: white;}
+  
+.button {background-color: white;
+    color: black;
+
+color: black;
+  font-size: 20px;
+  padding: 10px 20px;
+  border: 1px;
+  cursor: pointer;
+  display: inline;
+  }
+  
+  .text {
+    color: #686868; 
+    font-family: arial;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#btn {
+    margin-left: 550px;
+    width: 200px;
+    height: 100px;
+    font-size: 2em;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+#btn:hover {
+    background: #ff0000;
+    color: #ffffff;
+}
+
+
+*{
+    margin: 0; padding: 10;
+}
+
+@import url("https://fonts.googleapis.com/css?family=ZCOOL+XiaoWei&display=swap");
+
+element.style {
+}
+.ui-menu .ui-menu-item {
+    margin: 0;
+    cursor: pointer;
+    list-style-image: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7);
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.ui-widget-content {
+    border: 1px solid #dddddd;
+    background: #ffffff;
+    color: #333333;
+}
+.ui-widget {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 1em;
+}
+.ui-menu {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: block;
+    outline: 0;
+}
+
+
+ul {
+    list-style-type: disc;
+}
+#navbar {
+    width: 190px;
+    float: left;
+    margin: 0px 15px 15px 10px;
+    font-size: 120%;
+background-color: red;
+    display: block;
+}
+
+header  {color: white;
+    background: red;
+    height: 15vh;
+	font-family: 'Indie Flower', cursive;
+font-size: 850%;
+text-align: center;
+position: relative;
+	
+  }
+
+body {color: white;
+background-color: black;
+font-family: 'Sulphur Point', sans-serif;
+font-align: block;
+}
+
+h1 {color: red;
+font-family: 'ZCOOL XiaoWei', serif;
+text-align: center;
+font-size:250%;}
+
+h2 {color: red; 
+font-family:'ZCOOL XiaoWei', serif;
+text-align: center;
+font-size:140%;}
+
+p {font-size: 120%;
+}
+
+.centre {text-align: center;}
+
+ul {
+    display: inline;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.container{max-width: 720px;
+    margin: 0 auto;
+}
+
+
+
+
+.col-12 {float: right;
+width: 100%;
+padding: 0;
+text-align: block;
+font-size: 115%;
+}
+
+
+#photo {size: 10px;}
+
+.gallery {
+    margin: 10px 50px;
+}
+
+.gallery img {
+    transition: 1s;
+}
+  
+footer {
+    padding: 1em;
+    color: white;
+    background-color: red;
+    height: 2vh;
+    position: relative;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 70px;
+    margin-top: -100px;  
+    text-align: center;
+    clear: both}
+  
+  
+.button:hover {background-color: gold;
+color: white;}
+  
+.button {background-color: white;
+color: black;
+  font-size: 20px;
+  padding: 10px 20px;
+  border: 1px;
+  cursor: pointer;
+  display: inline;
+  }
+  
+.centre {
+    text-align: center;
+}
+
+.text {
+    color: #686868; 
+    font-family: arial;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#btn {
+    margin-left: 550px;
+    width: 200px;
+    height: 100px;
+    font-size: 2em;
+    border-radius: 10px;
+    background-color: #ffffff;
+}
+
+#btn:hover {
+    background: #ff0000;
+    color: #ffffff;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  
+  /* Hide the images by default */
+  .mySlides {
+    display: none;
+  }
+  
+  /* Next & previous buttons */
+  .prev, .next {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    width: auto;
+    margin-top: -22px;
+    padding: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.6s ease;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+  }
+  
+  /* Position the "next button" to the right */
+  .next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+  }
+  
+  /* On hover, add a black background color with a little bit see-through */
+  .prev:hover, .next:hover {
+    background-color: rgba(0,0,0,0.8);
+  }
+  
+ 
+  
+ 
+ 
+  
+  /* The dots/bullets/indicators */
+  .dot {
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: white;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+  }
+  
+  .active {
+    background-color: red;
+  }
+  
+  /* Fading animation */
+  .fade {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+  }
+  
+  @-webkit-keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4}
+    to {opacity: 1}
+  }
+  
+
+  
+
+  
+  
+ 
+
+
+
+
+
+  
+
+  
+  
+ 
+
+
